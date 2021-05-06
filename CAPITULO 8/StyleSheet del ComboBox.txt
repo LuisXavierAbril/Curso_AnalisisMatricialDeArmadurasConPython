@@ -1,0 +1,20 @@
+QComboBox{
+	/* Borde */
+	border: 2px solid rgb(142, 168, 195);
+	border-radius: 5px;
+
+	/* Color de fondo */
+	background-color:rgb(255, 255, 255); 
+
+	/* Color de Letras */
+	color: rgb(100,100,100);
+
+	/* Formato de Letras */
+	font: 75 14pt "Times New Roman";
+}
+
+
+QComboBox:hover{
+	/* Borde */
+	border: 2px solid rgb(255, 195, 15)
+}

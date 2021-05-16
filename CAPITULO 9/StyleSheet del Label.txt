@@ -1,0 +1,11 @@
+QLabel{
+
+	/* Color de Fondo*/
+	background-color: None;
+	
+	/* Formato de la letra */
+	font: 75 14pt "Times New Roman";
+	
+	/* Color de la letra */
+	color: rgb(255, 255, 255);
+}

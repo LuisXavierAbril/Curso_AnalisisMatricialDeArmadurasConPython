@@ -1,0 +1,16 @@
+QTableWidget{
+	/* Color de Fondo de la tabla */
+	background-color: rgb(255, 255, 255);
+
+	/* Formato a las letras en la tabla*/
+	font: 75 14pt "Times New Roman";
+	
+}
+
+QHeaderView{
+	/* Color de Fondo del encabezado */
+	background-color: rgb(255, 255, 255);
+
+	/* Formato a las letras en la cabeceras*/
+	font: 75 14pt "Times New Roman";
+}

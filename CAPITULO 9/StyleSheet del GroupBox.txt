@@ -1,0 +1,13 @@
+QGroupBox{
+	/* Ancho y color del borde*/
+	border: 2px solid rgb(255, 255, 255);
+
+	/* Radio del borde */
+	border-radius: 10px;
+
+	/* Formato de la letra */
+	font: 75 14pt "Times New Roman";
+
+	/*Color de la letra*/
+	color: rgb(255, 255, 255);
+}

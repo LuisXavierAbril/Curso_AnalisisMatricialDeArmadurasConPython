@@ -1,0 +1,5 @@
+/*Color de Fondo*/
+background-color: rgb(255, 255, 255);
+
+/* Radio del borde */
+border-radius: 10px;

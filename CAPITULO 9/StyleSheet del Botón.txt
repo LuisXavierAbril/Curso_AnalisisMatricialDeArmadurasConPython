@@ -1,0 +1,30 @@
+
+QPushButton{	
+	/* Color de Fondo */
+	background-color: rgb(64, 110, 142);
+
+	/* Ancho y color del borde */
+	border: 2px solid rgb(142, 168, 195);
+	
+	/* Color de las letras */
+	color: rgb(255, 255, 255);
+
+	/* Radio del borde */
+	border-radius: 8px;
+}
+
+QPushButton:hover{	
+	/* Color de Fondo (al pasar el ratón) */
+	background-color: rgb(142, 168, 195);
+
+	/* Ancho y color del borde (al pasar el ratón) */
+	border: 2px solid rgb(203, 247, 237);
+}
+
+QPushButton:pressed{	
+	/* Color de Fondo (al presionar el botón) */
+	background-color: rgb(203, 247, 237);
+	
+	/* Color de Fondo (al presionar el botón) */
+	border: 2px solid rgb(246, 253, 157);
+}

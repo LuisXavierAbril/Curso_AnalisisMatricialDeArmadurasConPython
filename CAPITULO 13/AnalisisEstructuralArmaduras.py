@@ -15,7 +15,7 @@ class MiembroArmadura():
     --> def Rig_Glob(self)
 
     Programó:
-    Ing. Josue Emmanuel Cruz Barragan
+    M. en I. Josue Emmanuel Cruz Barragan
     '''
     def __init__(self, elemento, area, modElasticidad, coordenada_xi, coordenada_yi, coordenada_xf, coordenada_yf, vec_coord):
 
@@ -106,7 +106,7 @@ class AnalisisMatricial():
     --> TensionCompresion(self)
 
     Programó:
-    Ing. Josue Emmanuel Cruz Barragan
+    M. en I. Josue Emmanuel Cruz Barragan
     '''
 
     def __init__(self, tbl_Elem, tbl_Nods, tbl_Frza, tbl_Desp):

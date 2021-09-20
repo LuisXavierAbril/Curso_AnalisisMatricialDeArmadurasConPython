@@ -6,7 +6,7 @@ from UI_Functions import Ui_Functions
 class Ui_MainWindow(QtWidgets.QMainWindow):
     '''
     Programó:
-    M. en I. Josue Emmanuel Cruz Barragan
+    M. en I. Josue Emmanuel Cruz Barragan.
     '''
     def __init__(self, parent = None):
         QtWidgets.QWidget.__init__(self, parent)

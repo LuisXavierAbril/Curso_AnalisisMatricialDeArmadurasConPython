@@ -4,7 +4,7 @@ from PyQt5 import QtWidgets
 class Ui_Functions(QtWidgets.QMainWindow):
     '''
     Programó:
-    M. en I. Josue Emmanuel Cruz Barragan
+    M. en I. Josue Emmanuel Cruz Barragan.
     '''
     def Fn_Inicializar(self):
         ############################

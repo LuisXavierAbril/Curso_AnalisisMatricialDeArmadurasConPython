@@ -23,7 +23,7 @@ class MiembroArmadura():
     --> def Rig_Glob(self)
     
     Programó:
-    M. en I. Josue Emmanuel Cruz Barragan
+    M. en I. Josue Emmanuel Cruz Barragan.
     '''
     def __init__(self, elemento, area, modElasticidad, coordenada_xi, coordenada_yi, coordenada_xf, coordenada_yf, vec_coord):
         
